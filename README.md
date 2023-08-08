@@ -1,3 +1,3 @@
-# Welcome 👋
-# Introduction to GIS Programming 
+# Welcome to GIS Programming  👋
+# Introduction 
 
